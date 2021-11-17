@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/itamar/computer structure projects/ex2/ex2.h
+
+/home/itamar/computer structure projects/ex2/main1.c
+stdio.h
+-
+ex2.h
+/home/itamar/computer structure projects/ex2/ex2.h
+
